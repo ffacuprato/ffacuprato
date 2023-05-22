@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Facundo Prato
+- 👀 I’m interested in full stack developing, data analytics and engeneering
+- 🌱 I’m currently learning front end developing and data analytics
+- 💞️ I’m looking to collaborate on trainee projects 
